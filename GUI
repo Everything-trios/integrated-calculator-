@@ -2,3 +2,4 @@ from tkinter import*
 #to create root for interface
 root=Tk()
 root.title('Integrated calculator')
+root.minimize(600,600)
